@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\class calculator"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
